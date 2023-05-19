@@ -1,1 +1,1 @@
-# student-grievance-portal
+# student-grievance-redressal-portal
