@@ -1,0 +1,26 @@
+.base{
+    margin:2% 20%;
+    padding:0% 5%;
+    box-shadow: 0 0 27px 5px #eeecec ;
+    background-color: #eeecec;
+}
+.ourForm{
+    padding: 1%;
+    padding-top: 0%;
+    font-weight: 450;
+}
+.firstLineForm{
+    padding: 1%;
+    font-size: 200%;
+    font-weight: bold;
+}
+.otherLineForm{
+    color: red;
+    padding: 1%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    font-size: 100%;
+}
+.superScript{
+    color:red;
+}

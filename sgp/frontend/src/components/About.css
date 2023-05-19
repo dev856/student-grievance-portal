@@ -1,0 +1,22 @@
+.introAbout{
+    margin:2%;
+    box-shadow: 0 0 27px 5px #eeecec ;
+    background-color: #eeecec;
+    padding: 2%;
+}
+.firstLineAbout{
+    margin-left: 45%;
+    padding: 1%;
+    font-size: 200%;
+    font-weight: bold;
+}
+.impLineAbout{
+    padding: 1%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    font-size: 150%;
+    font-weight: 450;
+}
+.last{
+    margin-left:35%;
+}

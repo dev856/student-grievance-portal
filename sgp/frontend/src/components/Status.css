@@ -1,0 +1,12 @@
+.introStatus{
+    margin-top:10%;
+    margin-left:20%;
+    margin-right:20%;
+    box-shadow: 0 0 27px 5px #eeecec ;
+    background-color: #eeecec;
+}
+.formStatus{
+    padding: 4%;
+    font-size: 200%;
+    font-weight: bold;
+}

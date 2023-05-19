@@ -1,0 +1,16 @@
+.introFaculty{
+    margin:2%;
+}
+.firstLineFaculty{
+    padding: 1%;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.formStatusFaculty{
+    padding: 2% 20%;
+    font-size: 150%;
+    font-weight: bold;
+    box-shadow: 0 0 27px 5px #eeecec ;
+    background-color: #eeecec;
+}

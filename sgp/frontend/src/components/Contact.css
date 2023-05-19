@@ -1,0 +1,22 @@
+.introContact{
+    margin:2%;
+    box-shadow: 0 0 27px 5px #eeecec ;
+    background-color: #eeecec;
+    padding: 2%;
+}
+.firstLineContact{
+    margin-left: 45%;
+    padding: 1%;
+    font-size: 200%;
+    font-weight: bold;
+}
+.impLineContact{
+    padding: 1%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    font-size: 150%;
+    font-weight: 450;
+}
+.vimp{
+    display: inline-block;
+}

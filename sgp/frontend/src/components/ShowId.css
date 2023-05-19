@@ -1,0 +1,12 @@
+.introShowId{
+    margin-top:10%;
+    margin-left:5%;
+    margin-right:5%;
+    box-shadow: 0 0 27px 5px #eeecec ;
+    background-color: #eeecec;
+}
+.firstLineShowId{
+    padding: 1%;
+    font-size: 200%;
+    font-weight: bold;
+}

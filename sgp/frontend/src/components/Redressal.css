@@ -1,0 +1,12 @@
+.introRedressal{
+    margin:2%;
+}
+.firstLineRedressal{
+    padding: 1%;
+    font-size: 200%;
+    font-weight: bold;
+}
+.otherPartRedressal{
+    box-shadow: 0 0 27px 5px #eeecec ;
+    background-color: #eeecec;
+}
